@@ -24,6 +24,6 @@ function ajax(method, endpoint){
 ajax('GET',url);
 
 
-
+ajax('GET', 'http://leguralnie.pl/json/ogloszenia-json.json');
 
 //console.log(httpReq);
