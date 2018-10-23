@@ -1,5 +1,5 @@
 //const btn = document.getElementById('get');
-//const utput = document.getElementById('output');
+//const output = document.getElementById('output');
 const url = "http://echo.jsontest.com/userId/108/userName/Akademia108/userURL/akademia108.pl";
 
 $.getJSON(url, function (response) {
